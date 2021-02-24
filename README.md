@@ -6,7 +6,6 @@ Repositório criado para guardar os projetos desenvolvidos em aula.
 Isso é uma tabela:
 - Item 1
 - Item 2
-- Item 3
-- Item N
+
 
 Aqui é o fim do arquivo.
