@@ -1,0 +1,1 @@
+[{"id":"ca92958b.1dce88","type":"exec","z":"1ff598a4.f4fae7","command":"sudo python3 ~/Documents/EEN251-2021/Codigos-Raspberry/ola_mundo.py","addpay":true,"append":"","useSpawn":"false","timer":"","oldrc":false,"name":"","x":356.5,"y":297.5,"wires":[["ff058f5.857157"],[],[]]}]
